@@ -1,4 +1,4 @@
 # energy-curtailment
-This GitHub repo accompanies the paper "Characterizing New York State Renewable Energy Curtailment to Support Net Zero Technology Growth". 
+This GitHub repo accompanies the paper "Characterizing New York State renewable energy curtailment to support decarbonization technology growth". 
 
-Corresponding author: Anna-Katharina von Krauland, at av3204@columbia.edu
+Corresponding author: Anna-Katharina von Krauland, at anna.vonkrauland@gmail.com
